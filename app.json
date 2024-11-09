@@ -7,7 +7,7 @@
   "succes_url": "/",
   "stack": "container",
   "env": {
-    "PREFIX": {
+    "PREFIX": /
       "description": "choose your prefix of bot",
       "value": ".",
       "required": true
@@ -22,12 +22,12 @@
       "value": "no",
       "required": false
     },
-    "PM_PERMIT": {
+    "PM_PERMIT": /
       "description": "Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
       "value": "no",
       "required": false
     },
-    "BOT_NAME": {
+    "BOT_NAME": HASSAN BOT
       "description": "put A name for your bot",
       "value": "BYTE-V.lite",
       "required": false
