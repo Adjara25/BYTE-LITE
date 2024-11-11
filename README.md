@@ -3,11 +3,7 @@
 <br>
 <strong>Looking for the BYTE-MD? then</strong>
 <a href="https://github.com/HyHamza/BYTE-MD">Click Here</a>
-
-
-<img src="https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg" width="540" height="auto" />
-</p>     
-
+    
 ### Setup
 
 **DEPLOY ON HEROKU**
