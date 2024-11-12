@@ -7,7 +7,7 @@
   "succes_url": "/",
   "stack": "container",
   "env": {
-    "PREFIX": /
+    "PREFIX": {
       "description": "choose your prefix of bot",
       "value": ".",
       "required": true
@@ -27,7 +27,7 @@
       "value": "no",
       "required": false
     },
-    "BOT_NAME": HASSAN BOT
+    "BOT_NAME": {
       "description": "put A name for your bot",
       "value": "BYTE-V.lite",
       "required": false
